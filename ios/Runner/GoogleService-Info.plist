@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyATFQhJw3_Xv69sQ2yLsyX-1WuhBvgXbi8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>901203938907</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.angles.multithemephotosns</string>
+	<key>PROJECT_ID</key>
+	<string>multiple-theme-photo-sns</string>
+	<key>STORAGE_BUCKET</key>
+	<string>multiple-theme-photo-sns.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:901203938907:ios:88622e5252754904da797e</string>
+</dict>
+</plist>

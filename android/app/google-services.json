@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901203938907",
+    "project_id": "multiple-theme-photo-sns",
+    "storage_bucket": "multiple-theme-photo-sns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901203938907:android:5e3ff70ab34169e8da797e",
+        "android_client_info": {
+          "package_name": "jp.angles.multithemephotosns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoscA5K_Pd5e24bZqcpDIAhfAEd8XdGN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
